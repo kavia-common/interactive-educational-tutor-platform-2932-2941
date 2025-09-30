@@ -1,7 +1,7 @@
 import json
 import os
 
-from src.api.main import app
+from src.api.main import app  # noqa: F401
 
 # Get the OpenAPI schema
 openapi_schema = app.openapi()
