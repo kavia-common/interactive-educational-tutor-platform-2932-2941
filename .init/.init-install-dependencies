@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && pip install -r requirements.txt",
+    "working_directory": "/home/kavia/workspace/code-generation/interactive-educational-tutor-platform-2932-2941/educational_chatbot_backend"
+}
